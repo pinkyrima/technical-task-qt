@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:qtechtask/src/style/k_color.dart';
-import 'package:qtechtask/src/style/k_textStyle.dart';
 
 class KTextField extends StatefulWidget {
   final String hintText;

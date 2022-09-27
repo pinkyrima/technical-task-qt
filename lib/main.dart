@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:qtechtask/src/view/product%20details/product_details_screen.dart';
 
 import 'src/view/product search/product_search_screen.dart';
 
